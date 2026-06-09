@@ -7,6 +7,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "scikit-image>=0.19.3",
     "scikit-learn>=0.23.2",
+    "swig>=4.4.1",
 ]
 
 [tool.uv.sources]
