@@ -1,6 +1,6 @@
 # calibrated-microscopy
 
-Two Python Jupyter notebooks that map cell luminance from microscopy images to MEFL units based on a calibration standard and then compare the results with equivalent FACS measurements. The notebooks do not provide reusable functions at this time. `uv` is used for dependency management.
+Two Python Jupyter notebooks that map cell luminance from microscopy images to MEFL units based on a calibration standard and then compare the results with equivalent FACS measurements. The notebooks do not provide reusable functions at this time. [`uv`](https://github.com/astral-sh/uv) is used for dependency management.
 
   1. Clone, `cd calibrated-microscopy`
   2. Add expected data into `data/`
